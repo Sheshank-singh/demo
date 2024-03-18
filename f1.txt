@@ -1,0 +1,5 @@
+scifi --- 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
+sheshank --- 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
+
+git remote set -url origin https://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@github.com/Scifi-boy/git-demo
+
